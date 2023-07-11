@@ -88,6 +88,9 @@ img
     font-weight: 600;
     border: 1px solid transparent;
 }
+
+/* featured section  */
+
 .featured-text
 {
     display: flex;
@@ -147,7 +150,7 @@ img
     justify-content: space-between;
 }
 
-
+/* group section  */
 
 .group
 {
@@ -172,6 +175,7 @@ img
     align-items: center;
 }
 
+/* hotdeal  */
 
 .hotdeal
 {
@@ -190,6 +194,7 @@ img
     width: 80%;
 }
 
+/* instagram section  */
 
 .insta-flex
 {
@@ -205,6 +210,7 @@ img
     width: 22%;
 }
 
+/* subscribe section  */
 
 .subscribe
 {
@@ -213,6 +219,45 @@ img
     background-size: cover;
 }
 
+/***********************************
+meaningful section***********************************/
+
+
+.container1 h1
+{
+    text-align: center;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+
+.container3-sec1-div1 section
+{
+   display: inline-block;
+   margin-top: 20px;
+  margin-left: 15%;
+   
+    
+    
+}
+
+.container3-sec1-div1 article
+{
+    display: inline-block;
+    margin-left: 10%;
+    position: relative;
+    bottom: 1.7em;
+    font-size: 1.5em;
+}
+
+.container3-sec1-div1 ul
+{
+    list-style: url(../assets/images/icons/check-16px.png) ;
+}
+
+
+
+/* footer  */
 .flex
 {
     display: flex;
@@ -225,3 +270,6 @@ img
     margin-top: 100px;
 
 }
+
+
+
