@@ -1,0 +1,91 @@
+/* all fonts  */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+
+body
+{
+    font-family: 'Lato', sans-serif;
+}
+
+/* common properties */
+*
+{
+    margin: 0;
+}
+
+img
+{
+    width: 100%;
+}
+
+.container1
+{
+    
+}
+
+
+
+
+
+/* header  */
+
+.header
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 150px 0 150px;
+    background-color: rgb(255, 246, 234);
+    
+}
+
+.header-text-block
+{
+    margin-right: 10%;
+}
+
+.header-text
+{
+    font-size: 55px;
+    font-weight: 800;
+    color: #272727;
+    margin-bottom: 20px;
+}
+
+.header-para
+{
+    font-size: 18px;
+    font-weight: 400;
+    color: #272727;
+    opacity: 60%;
+    margin-bottom: 20px;
+
+}
+
+.header-btn
+{
+    background-color: #E55473;
+    color: white;
+    padding: 12px 30px 12px 30px;
+    border-radius: 5px;
+    font-weight: 600;
+    border: 1px solid transparent;
+}
+
+.featured
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.featured-bg
+{
+    border-top-left-radius: 65px;
+    border-top-right-radius: 65px ;
+}
+
+.featured-bg1
+{
+    background-color: #d08cad;
+}
