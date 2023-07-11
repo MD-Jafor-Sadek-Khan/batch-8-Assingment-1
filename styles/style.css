@@ -222,7 +222,12 @@ img
 /***********************************
 meaningful section***********************************/
 
-
+.bg
+{
+    background-color: #ffeff3;
+    border-radius: 35px;
+    padding-top: 50px;
+}
 .container1 h1
 {
     text-align: center;
@@ -231,10 +236,12 @@ meaningful section***********************************/
 }
 
 
+
+
 .container3-sec1-div1 section
 {
    display: inline-block;
-   margin-top: 20px;
+   margin-top: 5px;
   margin-left: 15%;
    
     
